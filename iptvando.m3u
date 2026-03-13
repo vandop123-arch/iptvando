@@ -2,16 +2,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV!" group-title="Abertos BR",RedeTV!
 http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" group-title="Abertos BR",TV Brasil
 https://cdn-novosite.antt.gov.br/tvbrasil/live/smil:tvbrasil.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NBR.br" tvg-name="NBR TV" group-title="Abertos BR",NBR
 http://streamercpbr2.ustreamix.com:1935/nbrtv/nbrtv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PlutoTV.br" tvg-name="Pluto TV Brasil" group-title="FAST Grátis",Pluto TV Brasil
 http://stitcher-ipv4.pluto.tv/v1/stitch/hls/master?appVersion=web&deviceMake=PlutoTV&deviceModel=web&deviceType=web&deviceVersion=unknown&embedPartner=pluto-tv&marketingRegion=BR
-
-# Adicione aqui mais canais seus (copie o formato acima)
-#EXTINF:-1 tvg-id="SeuCanal.br" tvg-name="Seu Canal Favorito" group-title="Seus Canais",Seu Canal Favorito
-http://url-do-seu-canal.com/stream.m3u8
