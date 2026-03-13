@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TV Globo" tvg-logo="https://www.globo.com/logo.png",TV Globo (Canal 1)
+http://iptv.brasil/iptv/globo.m3u8
+
+#EXTINF:-1 tvg-name="Record TV" tvg-logo="https://www.recordtv.com/logo.png",Record TV (Canal 2)
+http://iptv.brasil/iptv/record.m3u8
+
+#EXTINF:-1 tvg-name="Band" tvg-logo="https://www.band.com/logo.png",Band (Canal 3)
+http://iptv.brasil/iptv/band.m3u8
+
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.cnn.com/logo.png",CNN (Canal 4)
+http://iptv.us/iptv/cnn.m3u8
+
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://www.bbc.co.uk/news/logo.png",BBC News (Canal 5)
+http://iptv.eu/iptv/bbc.m3u8
+
+#EXTINF:-1 tvg-name="Rádio Cultura" tvg-logo="https://cultura.radiobrasil.org/logo.png",Rádio Cultura (Canal 6)
+http://iptv.eu/iptv/radiocultura.m3u8
+
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://www.france24.com/logo.png",France 24 (Canal 7)
+http://iptv.eu/iptv/france24.m3u8
+
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://www.discovery.com/logo.png",Discovery Channel (Canal 8)
+http://iptv.us/iptv/discovery.m3u8
+
+#EXTINF:-1 tvg-name="TV5 Monde" tvg-logo="https://www.tv5monde.com/logo.png",TV5 Monde (Canal 9)
+http://iptv.eu/iptv/tv5monde.m3u8
+
+#EXTINF:-1 tvg-name="Radio France Internationale" tvg-logo="https://www.radiofrance.fr/logo.png",Radio France Internationale (Canal 10)
+http://iptv.eu/iptv/radiofrance.m3u8
