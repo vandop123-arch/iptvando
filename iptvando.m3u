@@ -1,10 +1,12 @@
-
 #EXTM3U
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV!" group-title="Abertos BR",RedeTV!
-http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" group-title="Abertos BR",TV Brasil
-https://cdn-novosite.antt.gov.br/tvbrasil/live/smil:tvbrasil.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="NBR.br" tvg-name="NBR TV" group-title="Abertos BR",NBR
-http://streamercpbr2.ustreamix.com:1935/nbrtv/nbrtv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTV.br" tvg-name="Pluto TV Brasil" group-title="FAST Grátis",Pluto TV Brasil
-http://stitcher-ipv4.pluto.tv/v1/stitch/hls/master?appVersion=web&deviceMake=PlutoTV&deviceModel=web&deviceType=web&deviceVersion=unknown&embedPartner=pluto-tv&marketingRegion=BR
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-name="A&E 4K" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E 4K
+http://cazuza.cc:80/Getulio19/uwXN5/90647.ts
+#EXTINF:-1 tvg-name="A&E FHD" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD
+http://cazuza.cc:80/Getulio19/uwXN5/71760.ts
+#EXTINF:-1 tvg-name="A&E FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E FHD [H265]
+http://cazuza.cc:80/Getulio19/uwXN5/71761.ts
+#EXTINF:-1 timeshift="7" tvg-name="A&E HD" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E HD
+http://cazuza.cc:80/Getulio19/uwXN5/71762.ts
+#EXTINF:-1 tvg-name="A&E SD" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="Canais | Variedades",A&E SD
+http://cazuza.cc:80/Getulio19/uwXN5/71763.ts
