@@ -1,108 +1,22 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-name="Telecine Action 4K" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action 4K
-http://cazuza.cc:80/Getulio19/uwXN5/90239.ts
-#EXTINF:-1 tvg-name="Telecine Action FHD" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD
-http://cazuza.cc:80/Getulio19/uwXN5/72346.ts
-#EXTINF:-1 tvg-name="Telecine Action FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action FHD [H265]
-http://cazuza.cc:80/Getulio19/uwXN5/72347.ts
-#EXTINF:-1 tvg-name="Telecine Action FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Legendados",Telecine Action FHD [LEG]
-http://cazuza.cc:80/Getulio19/uwXN5/90668.ts
-#EXTINF:-1 timeshift="7" tvg-name="Telecine Action HD" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action HD
-http://cazuza.cc:80/Getulio19/uwXN5/72348.ts
-#EXTINF:-1 tvg-name="Telecine Action HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Legendados",Telecine Action HD [LEG]
-http://cazuza.cc:80/Getulio19/uwXN5/90667.ts
-#EXTINF:-1 tvg-name="Telecine Action SD" tvg-logo="http://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Telecine",Telecine Action SD
-http://cazuza.cc:80/Getulio19/uwXN5/72349.ts
-#EXTINF:-1 tvg-name="Telecine Action SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecineaction.png" group-title="Canais | Legendados",Telecine Action SD [LEG]
-http://cazuza.cc:80/Getulio19/uwXN5/90666.ts
-#EXTINF:-1 tvg-name="Telecine Cult 4K" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult 4K
-http://cazuza.cc:80/Getulio19/uwXN5/103456.ts
-#EXTINF:-1 tvg-name="Telecine Cult FHD" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD
-http://cazuza.cc:80/Getulio19/uwXN5/72350.ts
-#EXTINF:-1 tvg-name="Telecine Cult FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult FHD [H265]
-http://cazuza.cc:80/Getulio19/uwXN5/72351.ts
-#EXTINF:-1 tvg-name="Telecine Cult FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | Legendados",Telecine Cult FHD [LEG]
-http://cazuza.cc:80/Getulio19/uwXN5/90665.ts
-#EXTINF:-1 timeshift="7" tvg-name="Telecine Cult HD" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult HD
-http://cazuza.cc:80/Getulio19/uwXN5/72352.ts
-#EXTINF:-1 tvg-name="Telecine Cult HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | Legendados",Telecine Cult HD [LEG]
-http://cazuza.cc:80/Getulio19/uwXN5/90664.ts
-#EXTINF:-1 tvg-name="Telecine Cult SD" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | Telecine",Telecine Cult SD
-http://cazuza.cc:80/Getulio19/uwXN5/72353.ts
-#EXTINF:-1 tvg-name="Telecine Cult SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinecult.png" group-title="Canais | Legendados",Telecine Cult SD [LEG]
-http://cazuza.cc:80/Getulio19/uwXN5/90663.ts
-#EXTINF:-1 tvg-name="Telecine Fun 4K" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun 4K
-http://cazuza.cc:80/Getulio19/uwXN5/103455.ts
-#EXTINF:-1 tvg-name="Telecine Fun FHD" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD
-http://cazuza.cc:80/Getulio19/uwXN5/72354.ts
-#EXTINF:-1 tvg-name="Telecine Fun FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun FHD [H265]
-http://cazuza.cc:80/Getulio19/uwXN5/72355.ts
-#EXTINF:-1 tvg-name="Telecine Fun FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | Legendados",Telecine Fun FHD [LEG]
-http://cazuza.cc:80/Getulio19/uwXN5/90662.ts
-#EXTINF:-1 timeshift="7" tvg-name="Telecine Fun HD" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun HD
-http://cazuza.cc:80/Getulio19/uwXN5/72356.ts
-#EXTINF:-1 tvg-name="Telecine Fun HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | Legendados",Telecine Fun HD [LEG]
-http://cazuza.cc:80/Getulio19/uwXN5/90661.ts
-#EXTINF:-1 tvg-name="Telecine Fun SD" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | Telecine",Telecine Fun SD
-http://cazuza.cc:80/Getulio19/uwXN5/72357.ts
-#EXTINF:-1 tvg-name="Telecine Fun SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinefun.png" group-title="Canais | Legendados",Telecine Fun SD [LEG]
-http://cazuza.cc:80/Getulio19/uwXN5/90660.ts
-#EXTINF:-1 tvg-name="Telecine Pipoca 4K" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca 4K
-http://cazuza.cc:80/Getulio19/uwXN5/90238.ts
-#EXTINF:-1 tvg-name="Telecine Pipoca FHD" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD
-http://cazuza.cc:80/Getulio19/uwXN5/72358.ts
-#EXTINF:-1 tvg-name="Telecine Pipoca FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca FHD [H265]
-http://cazuza.cc:80/Getulio19/uwXN5/72359.ts
-#EXTINF:-1 tvg-name="Telecine Pipoca FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | Legendados",Telecine Pipoca FHD [LEG]
-http://cazuza.cc:80/Getulio19/uwXN5/90659.ts
-#EXTINF:-1 timeshift="7" tvg-name="Telecine Pipoca HD" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca HD
-http://cazuza.cc:80/Getulio19/uwXN5/72360.ts
-#EXTINF:-1 tvg-name="Telecine Pipoca HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | Legendados",Telecine Pipoca HD [LEG]
-http://cazuza.cc:80/Getulio19/uwXN5/90658.ts
-#EXTINF:-1 tvg-name="Telecine Pipoca SD" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | Telecine",Telecine Pipoca SD
-http://cazuza.cc:80/Getulio19/uwXN5/72361.ts
-#EXTINF:-1 tvg-name="Telecine Pipoca SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinepipoca.png" group-title="Canais | Legendados",Telecine Pipoca SD [LEG]
-http://cazuza.cc:80/Getulio19/uwXN5/90657.ts
-#EXTINF:-1 tvg-name="Telecine Premium 4K" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium 4K
-http://cazuza.cc:80/Getulio19/uwXN5/90237.ts
-#EXTINF:-1 tvg-name="Telecine Premium FHD" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD
-http://cazuza.cc:80/Getulio19/uwXN5/72362.ts
-#EXTINF:-1 tvg-name="Telecine Premium FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium FHD [H265]
-http://cazuza.cc:80/Getulio19/uwXN5/72363.ts
-#EXTINF:-1 tvg-name="Telecine Premium FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | Legendados",Telecine Premium FHD [LEG]
-http://cazuza.cc:80/Getulio19/uwXN5/90656.ts
-#EXTINF:-1 timeshift="7" tvg-name="Telecine Premium HD" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium HD
-http://cazuza.cc:80/Getulio19/uwXN5/72364.ts
-#EXTINF:-1 tvg-name="Telecine Premium HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | Legendados",Telecine Premium HD [LEG]
-http://cazuza.cc:80/Getulio19/uwXN5/90655.ts
-#EXTINF:-1 tvg-name="Telecine Premium SD" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | Telecine",Telecine Premium SD
-http://cazuza.cc:80/Getulio19/uwXN5/72365.ts
-#EXTINF:-1 tvg-name="Telecine Premium SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinepremium.png" group-title="Canais | Legendados",Telecine Premium SD [LEG]
-http://cazuza.cc:80/Getulio19/uwXN5/90654.ts
-#EXTINF:-1 tvg-name="Telecine Touch 4K" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch 4K
-http://cazuza.cc:80/Getulio19/uwXN5/103454.ts
-#EXTINF:-1 tvg-name="Telecine Touch FHD" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD
-http://cazuza.cc:80/Getulio19/uwXN5/72366.ts
-#EXTINF:-1 tvg-name="Telecine Touch FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch FHD [H265]
-http://cazuza.cc:80/Getulio19/uwXN5/72367.ts
-#EXTINF:-1 tvg-name="Telecine Touch FHD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Legendados",Telecine Touch FHD [LEG]
-http://cazuza.cc:80/Getulio19/uwXN5/90653.ts
-#EXTINF:-1 timeshift="7" tvg-name="Telecine Touch HD" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch HD
-http://cazuza.cc:80/Getulio19/uwXN5/72368.ts
-#EXTINF:-1 tvg-name="Telecine Touch HD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Legendados",Telecine Touch HD [LEG]
-http://cazuza.cc:80/Getulio19/uwXN5/90652.ts
-#EXTINF:-1 tvg-name="Telecine Touch SD" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Telecine",Telecine Touch SD
-http://cazuza.cc:80/Getulio19/uwXN5/72369.ts
-#EXTINF:-1 tvg-name="Telecine Touch SD [LEG]" tvg-logo="https://acstatic.co/logos/canais/telecinetouch.png" group-title="Canais | Legendados",Telecine Touch SD [LEG]
-http://cazuza.cc:80/Getulio19/uwXN5/90651.ts
-#EXTINF:-1 tvg-name="TLC 4K" tvg-logo="https://acstatic.co/logos/canais/tlc.png" group-title="Canais | Variedades",TLC 4K
-http://cazuza.cc:80/Getulio19/uwXN5/103465.ts
-#EXTINF:-1 tvg-name="TLC FHD" tvg-logo="https://acstatic.co/logos/canais/tlc.png" group-title="Canais | Variedades",TLC FHD
-http://cazuza.cc:80/Getulio19/uwXN5/72371.ts
-#EXTINF:-1 tvg-name="TLC FHD [H265]" tvg-logo="https://acstatic.co/logos/canais/tlc.png" group-title="Canais | Variedades",TLC FHD [H265]
-http://cazuza.cc:80/Getulio19/uwXN5/72372.ts
-#EXTINF:-1 timeshift="7" tvg-name="TLC HD" tvg-logo="https://acstatic.co/logos/canais/tlc.png" group-title="Canais | Variedades",TLC HD
-http://cazuza.cc:80/Getulio19/uwXN5/72373.ts
-#EXTINF:-1 tvg-name="TLC SD" tvg-logo="https://acstatic.co/logos/canais/tlc.png" group-title="Canais | Variedades",TLC SD
-http://cazuza.cc:80/Getulio19/uwXN5/72374.ts
+#EXTINF:-1 tvg-name="[24H] Bleach - O Ataque dos Bounts a Sociedade das Almas [S05]" tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | [24H] Animes",[24H] Bleach - O Ataque dos Bounts a Sociedade das Almas [S05]
+http://cazuza.cc:80/Getulio19/uwXN5/138757.ts
+#EXTINF:-1 tvg-name="[24H] Bleach - O Conto da Zanpakuto Desconhecida [S13]" tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | [24H] Animes",[24H] Bleach - O Conto da Zanpakuto Desconhecida [S13]
+http://cazuza.cc:80/Getulio19/uwXN5/138765.ts
+#EXTINF:-1 tvg-name="[24H] Bleach - O Exercito de Invasao das 13 Divisoes [S15]" tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | [24H] Animes",[24H] Bleach - O Exercito de Invasao das 13 Divisoes [S15]
+http://cazuza.cc:80/Getulio19/uwXN5/138767.ts
+#EXTINF:-1 tvg-name="[24H] Bleach - O Novo Capitao Amagai Shusuke [S09]" tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | [24H] Animes",[24H] Bleach - O Novo Capitao Amagai Shusuke [S09]
+http://cazuza.cc:80/Getulio19/uwXN5/138761.ts
+#EXTINF:-1 tvg-name="[24H] Bleach - O Passado [S11]" tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | [24H] Animes",[24H] Bleach - O Passado [S11]
+http://cazuza.cc:80/Getulio19/uwXN5/138763.ts
+#EXTINF:-1 tvg-name="[24H] Bleach - O Shinigami Substituto Desaparecido [S16]" tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | [24H] Animes",[24H] Bleach - O Shinigami Substituto Desaparecido [S16]
+http://cazuza.cc:80/Getulio19/uwXN5/138768.ts
+#EXTINF:-1 tvg-name="[24H] Bleach - O Substituto [S01]" tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | [24H] Animes",[24H] Bleach - O Substituto [S01]
+http://cazuza.cc:80/Getulio19/uwXN5/138753.ts
+#EXTINF:-1 tvg-name="[24H] Bleach - Os Bounts [S04]" tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | [24H] Animes",[24H] Bleach - Os Bounts [S04]
+http://cazuza.cc:80/Getulio19/uwXN5/138756.ts
+#EXTINF:-1 tvg-name="[24H] Bleach - Sociedade das Almas A Entrada [S02]" tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | [24H] Animes",[24H] Bleach - Sociedade das Almas A Entrada [S02]
+http://cazuza.cc:80/Getulio19/uwXN5/138754.ts
+#EXTINF:-1 tvg-name="[24H] Bleach - Sociedade das Almas O Resgate [S03]" tvg-logo="http://24horas.cc:80/images/ee94d241147320aa07534b6589f62e84.jpg" group-title="Canais | [24H] Animes",[24H] Bleach - Sociedade das Almas O Resgate [S03]
+http://cazuza.cc:80/Getulio19/uwXN5/138755.ts
