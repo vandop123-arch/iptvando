@@ -1,30 +1,17 @@
+
 #EXTM3U
-#EXTINF:-1 tvg-name="TV Globo" tvg-logo="https://www.globo.com/logo.png",TV Globo (Canal 1)
-http://iptv.brasil/iptv/globo.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV!" group-title="Abertos BR",RedeTV!
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Record TV" tvg-logo="https://www.recordtv.com/logo.png",Record TV (Canal 2)
-http://iptv.brasil/iptv/record.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" group-title="Abertos BR",TV Brasil
+https://cdn-novosite.antt.gov.br/tvbrasil/live/smil:tvbrasil.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Band" tvg-logo="https://www.band.com/logo.png",Band (Canal 3)
-http://iptv.brasil/iptv/band.m3u8
+#EXTINF:-1 tvg-id="NBR.br" tvg-name="NBR TV" group-title="Abertos BR",NBR
+http://streamercpbr2.ustreamix.com:1935/nbrtv/nbrtv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://www.cnn.com/logo.png",CNN (Canal 4)
-http://iptv.us/iptv/cnn.m3u8
+#EXTINF:-1 tvg-id="PlutoTV.br" tvg-name="Pluto TV Brasil" group-title="FAST Grátis",Pluto TV Brasil
+http://stitcher-ipv4.pluto.tv/v1/stitch/hls/master?appVersion=web&deviceMake=PlutoTV&deviceModel=web&deviceType=web&deviceVersion=unknown&embedPartner=pluto-tv&marketingRegion=BR
 
-#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://www.bbc.co.uk/news/logo.png",BBC News (Canal 5)
-http://iptv.eu/iptv/bbc.m3u8
-
-#EXTINF:-1 tvg-name="Rádio Cultura" tvg-logo="https://cultura.radiobrasil.org/logo.png",Rádio Cultura (Canal 6)
-http://iptv.eu/iptv/radiocultura.m3u8
-
-#EXTINF:-1 tvg-name="France 24" tvg-logo="https://www.france24.com/logo.png",France 24 (Canal 7)
-http://iptv.eu/iptv/france24.m3u8
-
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://www.discovery.com/logo.png",Discovery Channel (Canal 8)
-http://iptv.us/iptv/discovery.m3u8
-
-#EXTINF:-1 tvg-name="TV5 Monde" tvg-logo="https://www.tv5monde.com/logo.png",TV5 Monde (Canal 9)
-http://iptv.eu/iptv/tv5monde.m3u8
-
-#EXTINF:-1 tvg-name="Radio France Internationale" tvg-logo="https://www.radiofrance.fr/logo.png",Radio France Internationale (Canal 10)
-http://iptv.eu/iptv/radiofrance.m3u8
+# Adicione aqui mais canais seus (copie o formato acima)
+#EXTINF:-1 tvg-id="SeuCanal.br" tvg-name="Seu Canal Favorito" group-title="Seus Canais",Seu Canal Favorito
+http://url-do-seu-canal.com/stream.m3u8
