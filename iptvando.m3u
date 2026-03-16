@@ -1,4 +1,4 @@
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="Canais | Globo
-https://rdcanais.top/globosp
+#EXTM3U  
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"  
+#EXTINF:-1 tvg-name="GLOBO" tvg-logo="https://acstatic.co/logos/canais/globo.png" group-title="Canais | Globo", Globo SP  
+https://rdcanais.top/globosp 
